@@ -4,5 +4,5 @@ This is a repository for thesis modelling study.
 # Table of Contents
 # Baseline models
 # Statistical models
-# XGBoost
-# Deep learning
+# Machine Learning models
+# Deep learning models 
